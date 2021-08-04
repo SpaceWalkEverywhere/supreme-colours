@@ -1,6 +1,6 @@
 body{
     animation-name:VIBGYOR ;
-    animation-duration: 0.2s;
+    animation-duration: 2s;
     animation-iteration-count: infinite;
 }
 @keyframes VIBGYOR{
